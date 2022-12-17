@@ -48,29 +48,6 @@
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
 <img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=Niko-Cloud&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="adam-pw"
-bg_color=#808080/>
-
-</div>
-
-
-#
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31oqw4q4lmris3kpeqeyi4ojxnkm&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Niko-Cloud&&style=flat-square" align="center" />
-</div>   
-
-<br />
-
-------
-
-[Niko-Cloud](https://github.com/Niko-Cloud)
-Last Edited 07/11/2022
 
 <!--
 **Lekhanshlkr/Lekhanshlkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
