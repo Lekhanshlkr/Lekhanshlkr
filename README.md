@@ -9,19 +9,19 @@
   <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
 </div>
 
-### <div align="center">I'm a Final Year CS Undergrad at KIIT University, India. I am an Android and Backend Developer</div>
+### <div align="center">SDE at a Stealth Startup. I'm an Undergrad from KIIT University, India.</div>
 
 
-- 🔭 I’m currently looking for internship and full time roles.
+- 🔭 I’m currently working at the Backend Development Team.
 
 
-- 🌱 I’m currently exploring Backend Development and Advanced Android Development.
+- 🌱 I’m currently exploring Frontend Development using React/Typescript.
 
 
-- ❓ You can Email Me Through [Here](mailto:lekhansh.ruprela@gmail.com)
+- 📫 You can Contact on this [email](mailto:lekhansh.ruprela@gmail.com)
 
 
-- ⚡ Not so fun fact: I also like to edit videos <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:20px"/>
+- ⚡ Fun fact: I also like to edit videos <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:20px"/>
 
 
 <br/>  
