@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-## <div align="center">I'm Lekhansh Ruprela <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:20px"/></div>
+## <div align="center">I'm Lekhansh Ruprela</div>
 
 <br>
 <div style ="display:flex;" align="center">
-  <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:250px"/>
-  <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" style="height:200px"/>
-  <img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
+  <img src="https://wallpaperaccess.com/full/4927679.jpg" style="width:250px"/>
 </div>
 
 ### <div align="center">SDE at a Stealth Startup. I'm an Undergrad from KIIT University, India.</div>
@@ -21,7 +19,7 @@
 - 📫 You can Contact on this [email](mailto:lekhansh.ruprela@gmail.com)
 
 
-- ⚡ Fun fact: I also like to edit videos <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:20px"/>
+- ⚡ Fun fact: I also like to edit videos!
 
 
 <br/>  
@@ -46,7 +44,7 @@
 </div>  
 <br/>
 <div align="center" style="display:inline-block;flex-wrap:nowrap";>
-<img src="https://media.tenor.com/BzMSfXg3bMcAAAAd/medusa-fgo.gif" style="height:190px"/>
+<img src="https://c4.wallpaperflare.com/wallpaper/560/855/635/spy-x-family-anya-forger-hd-wallpaper-preview.jpg" style="height:190px"/>
 
 
 <!--
